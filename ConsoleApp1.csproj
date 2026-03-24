@@ -54,7 +54,10 @@
     <Compile Include="EmployeeSalary_Calculation.cs" />
     <Compile Include="Employee_Salay_Hike.cs" />
     <Compile Include="Explicit_TypeCasting.cs" />
+    <Compile Include="ForIncrement.cs" />
+    <Compile Include="ForDecrement.cs" />
     <Compile Include="ForLoop.cs" />
+    <Compile Include="ForLoopUserInput.cs" />
     <Compile Include="GST_calculations.cs" />
     <Compile Include="If..else_Statements_CW.cs" />
     <Compile Include="if_else.cs" />
