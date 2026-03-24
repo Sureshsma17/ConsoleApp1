@@ -6,7 +6,7 @@
 
 //namespace ConsoleApp1
 //{
-//    internal class Nested_Switch_Statements
+//    internal class Nested_CW
 //    {
 //        static void Main(string[] args)
 //        {

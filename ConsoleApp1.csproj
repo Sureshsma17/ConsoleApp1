@@ -54,6 +54,7 @@
     <Compile Include="EmployeeSalary_Calculation.cs" />
     <Compile Include="Employee_Salay_Hike.cs" />
     <Compile Include="Explicit_TypeCasting.cs" />
+    <Compile Include="ForLoop.cs" />
     <Compile Include="GST_calculations.cs" />
     <Compile Include="If..else_Statements_CW.cs" />
     <Compile Include="if_else.cs" />
@@ -65,6 +66,7 @@
     <Compile Include="Implicit&amp;Explicit_Typecasting.cs" />
     <Compile Include="Implicit_Typecasting.cs" />
     <Compile Include="Internet_bill.cs" />
+    <Compile Include="Nested_CW.cs" />
     <Compile Include="Nested_Switch_Statements.cs" />
     <Compile Include="Parsing_Examples.cs" />
     <Compile Include="Parsing_String_All.cs" />
