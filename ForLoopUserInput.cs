@@ -15,7 +15,7 @@
 //            Console.WriteLine("Enter Ending Value");
 //            int b = int.Parse(Console.ReadLine());
 //            Console.WriteLine("Generating the numbers");
-//            for(int i=a;i<=b;i++)
+//            for (int i = a; i <= b; i++)
 //            {
 //                Console.WriteLine(i);
 //            }
